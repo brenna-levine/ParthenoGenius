@@ -1,0 +1,1856 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
+######## Data generated: 16/06/2022 16:34:03 #########
+
+
+Parameters:
+	Infile = COBRA-PARTH-TESTS/INFILES/baby_1.csv
+	Outfile = COBRA-PARTH-TESTS/OUTFILES/baby_1
+	Error = 0.01
+	Max_Het = 0.8
+
+
+The following are the locus IDs for the loci at which the mom is heterozygous.
+If a male is homozygous for one of the mom's alleles, the mom's and male's alleles are printed below and the maternal allele that matches the offspring homozygous genotype is defined.
+
+Please refer to the maternal heterozygous loci summary output file for summary statistics.
+
+Locus: Locus_88
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_102
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_103
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_160
+
+Locus: Locus_228
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_242
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_253
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_282
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_311
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_411
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_479
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_534
+
+Locus: Locus_582
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_585
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_595
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_632
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_653
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_688
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_691
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_697
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_708
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_709
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_711
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_724
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_737
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_743
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_753
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_813
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_823
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_840
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_884
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_921
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_961
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_971
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_1011
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1026
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1071
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1105
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1122
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_1132
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_1144
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1248
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1264
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1290
+
+Locus: Locus_1295
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1377
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1380
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1392
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_1413
+
+Locus: Locus_1529
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_1533
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_1575
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1656
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1669
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1679
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1758
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_1806
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_1845
+
+Locus: Locus_1853
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2099
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2166
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_2283
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2319
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2376
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2430
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2441
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2484
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_2635
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2646
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2652
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2687
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_2716
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2740
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_2960
+
+Locus: Locus_2992
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3001
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3036
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_3063
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3208
+
+Locus: Locus_3249
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3380
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_3425
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3502
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_3516
+
+Locus: Locus_3545
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3578
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_3609
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3618
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3651
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_3728
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3765
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3803
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_3904
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_3922
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3954
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_3984
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4036
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4046
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4067
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4138
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4146
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4339
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4437
+
+Locus: Locus_4450
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_4451
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4462
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4463
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_4480
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_4532
+
+Locus: Locus_4642
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4656
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4664
+
+Locus: Locus_4835
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4867
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_4931
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_4957
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_4975
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5048
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5102
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5150
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5164
+
+Locus: Locus_5209
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_5271
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5311
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_5318
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_5340
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5365
+
+Locus: Locus_5506
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_5512
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5546
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5594
+
+Locus: Locus_5607
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5681
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5735
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5774
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5846
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5848
+
+Locus: Locus_5876
+
+Locus: Locus_5902
+
+Locus: Locus_5944
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5960
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_5990
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6160
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6186
+
+Locus: Locus_6217
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6267
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_6398
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_6444
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6522
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_6530
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6591
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_6747
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_6771
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6786
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6878
+
+Locus: Locus_6955
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6986
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_6997
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_7073
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_7130
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7226
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_7249
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_7278
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7284
+
+Locus: Locus_7287
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7487
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7623
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7637
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7656
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7715
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7754
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7831
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_7979
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_8002
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_8004
+
+Locus: Locus_8030
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_8185
+
+Locus: Locus_8393
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_8469
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_8569
+
+Locus: Locus_8608
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_8617
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_8757
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_8844
+
+Locus: Locus_8997
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_9064
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_9120
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_9121
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_9134
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_9259
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_9406
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_9867
+
+Locus: Locus_10043
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_10078
+
+Locus: Locus_10334
+
+Locus: Locus_10365
+
+Locus: Locus_10544
+
+Locus: Locus_10785
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_10904
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_11024
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_11025
+
+Locus: Locus_11050
+
+Locus: Locus_11075
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_11114
+
+Locus: Locus_11274
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_11317
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_11587
+
+Locus: Locus_11594
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_11641
+
+Locus: Locus_12188
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_12288
+
+Locus: Locus_12482
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_12501
+
+Locus: Locus_12593
+
+Locus: Locus_12797
+
+Locus: Locus_12880
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_12883
+
+Locus: Locus_12887
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_12913
+
+Locus: Locus_13027
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_13046
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_13112
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_13165
+
+Locus: Locus_13229
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_13295
+
+Locus: Locus_13308
+
+Locus: Locus_13439
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_13535
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_13572
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_13637
+
+Locus: Locus_13666
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_13735
+
+Locus: Locus_13810
+
+Locus: Locus_13831
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_13872
+
+Locus: Locus_14087
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_14310
+
+Locus: Locus_14353
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_14468
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_14486
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_14500
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_14939
+
+Locus: Locus_15039
+
+Locus: Locus_15306
+
+Locus: Locus_15364
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_15395
+
+Locus: Locus_15397
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_15510
+
+Locus: Locus_15567
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_15812
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_15879
+
+Locus: Locus_16021
+
+Locus: Locus_16074
+
+Locus: Locus_16162
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_16218
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_16278
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_16308
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_16486
+
+Locus: Locus_16520
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_16895
+
+Locus: Locus_16967
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_17073
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_17502
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_17525
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_17871
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_17929
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_18170
+
+Locus: Locus_18190
+
+Locus: Locus_18449
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_18583
+
+Locus: Locus_18633
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_18695
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_19219
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: Locus_19978
+
+Locus: Locus_20009
+
+Locus: Locus_20096
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_20142
+
+	Mom allele 1: 0
+	Mom allele 2: 1
+	Offspring allele 1: 0
+	Offspring allele 2: 0
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: Locus_20535
+

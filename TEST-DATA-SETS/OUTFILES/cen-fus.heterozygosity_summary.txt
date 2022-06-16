@@ -1,0 +1,22 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
+######## Data generated: 16/06/2022 16:36:38 #########
+
+
+Parameters:
+	Infile = TEST-DATA-SETS/INFILES/test_CEN-FUS.csv
+	Outfile = TEST-DATA-SETS/OUTFILES/cen-fus
+	Error = 0.01
+	Max_Het = 0.8
+
+
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR HOMOZYGOUS GENOTYPES OF MALE OFFSPRING
+
+Total number of loci analyzed: 200
+Number of loci for which mom is heterozygous: 60
+Number of mom's heterozygous loci at which male is homozygous for a maternal allele: 1
+Proportion of mom's heterozygous loci for which male is homozygous for maternal allele: 0.017
+Proportion of mom's heterozygous loci for which male is NOT homozygous for maternal allele (i.e., heterozygous): 0.983
+
+This parthenogen was likely produced via:	CENTRAL FUSION
+
+	The mom and offspring have a similar number of heterozygous loci.

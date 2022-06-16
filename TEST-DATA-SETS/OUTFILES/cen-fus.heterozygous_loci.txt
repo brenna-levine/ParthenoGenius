@@ -1,0 +1,142 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
+######## Data generated: 16/06/2022 16:36:38 #########
+
+
+Parameters:
+	Infile = TEST-DATA-SETS/INFILES/test_CEN-FUS.csv
+	Outfile = TEST-DATA-SETS/OUTFILES/cen-fus
+	Error = 0.01
+	Max_Het = 0.8
+
+
+The following are the locus IDs for the loci at which the mom is heterozygous.
+If a male is homozygous for one of the mom's alleles, the mom's and male's alleles are printed below and the maternal allele that matches the offspring homozygous genotype is defined.
+
+Please refer to the maternal heterozygous loci summary output file for summary statistics.
+
+Locus: SNP1
+
+Locus: SNP5
+
+Locus: SNP6
+
+Locus: SNP11
+
+Locus: SNP15
+
+Locus: SNP16
+
+Locus: SNP21
+
+Locus: SNP25
+
+Locus: SNP26
+
+Locus: SNP31
+
+Locus: SNP35
+
+Locus: SNP36
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 1
+	Mom's allele that matches homozygous genotype of offspring: Allele 1
+
+Locus: SNP41
+
+Locus: SNP45
+
+Locus: SNP46
+
+Locus: SNP51
+
+Locus: SNP55
+
+Locus: SNP56
+
+Locus: SNP61
+
+Locus: SNP65
+
+Locus: SNP66
+
+Locus: SNP71
+
+Locus: SNP75
+
+Locus: SNP76
+
+Locus: SNP81
+
+Locus: SNP85
+
+Locus: SNP86
+
+Locus: SNP91
+
+Locus: SNP95
+
+Locus: SNP96
+
+Locus: SNP101
+
+Locus: SNP105
+
+Locus: SNP106
+
+Locus: SNP111
+
+Locus: SNP115
+
+Locus: SNP116
+
+Locus: SNP121
+
+Locus: SNP125
+
+Locus: SNP126
+
+Locus: SNP131
+
+Locus: SNP135
+
+Locus: SNP136
+
+Locus: SNP141
+
+Locus: SNP145
+
+Locus: SNP146
+
+Locus: SNP151
+
+Locus: SNP155
+
+Locus: SNP156
+
+Locus: SNP161
+
+Locus: SNP165
+
+Locus: SNP166
+
+Locus: SNP171
+
+Locus: SNP175
+
+Locus: SNP176
+
+Locus: SNP181
+
+Locus: SNP185
+
+Locus: SNP186
+
+Locus: SNP191
+
+Locus: SNP195
+
+Locus: SNP196
+

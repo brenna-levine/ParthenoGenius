@@ -1,0 +1,23 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
+######## Data generated: 16/06/2022 16:34:13 #########
+
+
+Parameters:
+	Infile = COBRA-PARTH-TESTS/INFILES/baby_2.csv
+	Outfile = COBRA-PARTH-TESTS/OUTFILES/baby_2
+	Error = 0.01
+	Max_Het = 0.8
+
+
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR HOMOZYGOUS GENOTYPES OF MALE OFFSPRING
+
+Total number of loci analyzed: 20562
+Number of loci for which mom is heterozygous: 278
+Number of mom's heterozygous loci at which male is homozygous for a maternal allele: 203
+Proportion of mom's heterozygous loci for which male is homozygous for maternal allele: 0.73
+Proportion of mom's heterozygous loci for which male is NOT homozygous for maternal allele (i.e., heterozygous): 0.27
+
+This parthenogen was likely produced via:	TERMINAL FUSION
+
+	The proportion of mom's heterozygous loci for which male is heterozygous exceeds the error rate.
+	Therefore, observed offspring heterozygosity at these loci is likely real and not an artifact of sequencing/genotyping error.
