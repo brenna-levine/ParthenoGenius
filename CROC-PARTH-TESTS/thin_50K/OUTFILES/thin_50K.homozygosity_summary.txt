@@ -1,0 +1,24 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI SUMMARY ########
+######## Data generated: 17/06/2022 20:18:43 #########
+
+
+Parameters:
+	Infile = CROC-PARTH-TESTS/thin_50K/INFILES/thin_50K.csv
+	Outfile = CROC-PARTH-TESTS/thin_50K/OUTFILES/thin_50K
+	Error = 0.001
+	Max_Het = 0.8
+
+
+SUMMARY OF RESULTS: SCAN OF MATERNAL HOMOZYGOUS LOCI FOR HETEROZYGOUS MALE OFFSPRING GENOTYPES
+
+Total number of loci analyzed: 39746
+Number of loci for which mom is homozygous: 38720
+Number of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: 12
+Proportion of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: 0.00031
+Proportion of mom's homozygous loci for which male has identical homozygous genotype to maternal genotype: 0.99969
+
+
+THE OFFSPRING IS LIKELY A PARTHENOGEN.
+
+	The proportion of mom's homozygous loci at which at least one of male's alleles differs from maternal alleles is less than the error rate.
+	Incongruence between maternal genotypes and offspring genotypes at these loci is likely due to sequencing/genotyping error rather than the presence of paternal alleles.

@@ -1,0 +1,23 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
+######## Data generated: 17/06/2022 20:12:19 #########
+
+
+Parameters:
+	Infile = CROC-PARTH-TESTS/thin_25K/INFILES/thin_25K.csv
+	Outfile = CROC-PARTH-TESTS/thin_25K/OUTFILES/thin_25K
+	Error = 0.001
+	Max_Het = 0.8
+
+
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR HOMOZYGOUS GENOTYPES OF MALE OFFSPRING
+
+Total number of loci analyzed: 78603
+Number of loci for which mom is heterozygous: 2023
+Number of mom's heterozygous loci at which male is homozygous for a maternal allele: 1947
+Proportion of mom's heterozygous loci for which male is homozygous for maternal allele: 0.96243
+Proportion of mom's heterozygous loci for which male is NOT homozygous for maternal allele (i.e., heterozygous): 0.03757
+
+This parthenogen was likely produced via:	TERMINAL FUSION
+
+	The proportion of mom's heterozygous loci for which male is heterozygous exceeds the error rate.
+	Therefore, observed offspring heterozygosity at these loci is likely real and not an artifact of sequencing/genotyping error.

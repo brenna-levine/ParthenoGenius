@@ -11,7 +11,7 @@ parser=argparse.ArgumentParser(description='ParthenoGenius')
 #add positional arguments to argument parser (i.e., the required information)
 parser.add_argument('infile', help="csv file with maternal and putative parthenogen alleles - See README for format")
 parser.add_argument('outfile', help="prefix for naming output files")
-parser.add_argument('--error', help="sequencing error tolerated; default = 0.1; see README for explanation", nargs="?", const=1, default=0.01)
+parser.add_argument('--error', help="sequencing error tolerated; default = 0.001; see README for explanation", nargs="?", const=1, default=0.001)
 parser.add_argument('--max_het', help="maximum heterozygosity limit beyond which to call central fusion automixis; default = 0.8, see README for explanation", nargs="?", const=1, default=0.8)
 
 #parse arguments
@@ -39,10 +39,12 @@ now_str = now.strftime("%d/%m/%Y %H:%M:%S")
 
 #count number of rows in dataframe
 row_total = structure_alleles.shape[0]
+#print(row_total)
 
 
 #count number of columns (loci)
 column_total = structure_alleles.shape[1]
+#print(column_total)
 
 ################################# scan for maternal homozygous genotypes ###############################
 
@@ -94,8 +96,8 @@ with open(outfile_homozyg_sum, 'w') as fileobject: #with homozygosity summary ou
     fileobject.write(f"Total number of loci analyzed: {column_total}\n")
     fileobject.write(f"Number of loci for which mom is homozygous: {len(mom_homozyg)}\n")
     fileobject.write(f"Number of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: {len(males)}\n")
-    fileobject.write(f"Proportion of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: {round(len(males)/len(mom_homozyg), 3)}\n")
-    fileobject.write(f"Proportion of mom's homozygous loci for which male has identical homozygous genotype to maternal genotype: {round(1 - (len(males)/len(mom_homozyg)), 3)}\n\n\n")
+    fileobject.write(f"Proportion of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: {round(len(males)/len(mom_homozyg), 5)}\n")
+    fileobject.write(f"Proportion of mom's homozygous loci for which male has identical homozygous genotype to maternal genotype: {round(1 - (len(males)/len(mom_homozyg)), 5)}\n\n\n")
 
     #Test for significance - if proportion on mom's homozygous loci for which at least one of male's alleles differ from maternal alleles is less
     #than or equal to default or user-defined sequencing error rate, call a likely parthenogen
@@ -178,8 +180,8 @@ if (len(males)/len(mom_homozyg)) <= float(args.error): #if evidence of parthenog
         fileobject.write(f"Total number of loci analyzed: {column_total}\n")
         fileobject.write(f"Number of loci for which mom is heterozygous: {len(mom_het)}\n") #print total number of loci
         fileobject.write(f"Number of mom's heterozygous loci at which male is homozygous for a maternal allele: {len(males)}\n") #print number of loci for which all males have paternal alleles
-        fileobject.write(f"Proportion of mom's heterozygous loci for which male is homozygous for maternal allele: {round(len(males)/len(mom_het), 3)}\n")
-        fileobject.write(f"Proportion of mom's heterozygous loci for which male is NOT homozygous for maternal allele (i.e., heterozygous): {round(1 - (len(males)/len(mom_het)), 3)}\n\n")
+        fileobject.write(f"Proportion of mom's heterozygous loci for which male is homozygous for maternal allele: {round(len(males)/len(mom_het), 5)}\n")
+        fileobject.write(f"Proportion of mom's heterozygous loci for which male is NOT homozygous for maternal allele (i.e., heterozygous): {round(1 - (len(males)/len(mom_het)), 5)}\n\n")
 
         #Test for significance - if proportion on mom's heterozygous loci for which male is heterozygous differ is less
         #than or equal to default or user-defined sequencing error rate, call a likely parthenogen
