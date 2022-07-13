@@ -1,23 +1,22 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
-######## Data generated: 17/06/2022 20:18:43 #########
+######## Data generated: 13/07/2022 15:55:13 #########
 
 
 Parameters:
 	Infile = CROC-PARTH-TESTS/thin_50K/INFILES/thin_50K.csv
 	Outfile = CROC-PARTH-TESTS/thin_50K/OUTFILES/thin_50K
-	Error = 0.001
+	Estimated Error Rate from Previous Homozygosity Scan = 0.00031
 	Max_Het = 0.8
 
 
-SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR HOMOZYGOUS GENOTYPES OF MALE OFFSPRING
+SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR OFFSPRING RETAINED HETEROZYGOSITY
 
 Total number of loci analyzed: 39746
 Number of loci for which mom is heterozygous: 1026
-Number of mom's heterozygous loci at which male is homozygous for a maternal allele: 992
-Proportion of mom's heterozygous loci for which male is homozygous for maternal allele: 0.96686
-Proportion of mom's heterozygous loci for which male is NOT homozygous for maternal allele (i.e., heterozygous): 0.03314
+Number of mom's heterozygous loci for which offspring has retained heterozygosity for a maternal allele: 34
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity for a maternal allele: 0.03314
 
-This parthenogen was likely produced via:	TERMINAL FUSION
+This parthenogen was likely produced via:	TERMINAL FUSION AUTOMIXIS
 
-	The proportion of mom's heterozygous loci for which male is heterozygous exceeds the error rate.
-	Therefore, observed offspring heterozygosity at these loci is likely real and not an artifact of sequencing/genotyping error.
+	The proportion of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the estimated error rate from the homozygosity scan.
+	Therefore, offspring heterozygosity at these loci is not likely an artifact of sequencing error.

@@ -1,16 +1,16 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI ########
-######## Data generated: 17/06/2022 20:12:19 #########
+######## Data generated: 13/07/2022 15:54:43 #########
 
 
 Parameters:
 	Infile = CROC-PARTH-TESTS/thin_25K/INFILES/thin_25K.csv
 	Outfile = CROC-PARTH-TESTS/thin_25K/OUTFILES/thin_25K
-	Error = 0.001
+	Error = 0.01
 	Max_Het = 0.8
 
 
 The following are the locus IDs for the loci at which the mom is homozygous.
-If a male allele differs from the maternal homozygous genotype (i.e., evidence of paternal alleles or genotyping error), the discordant maternal allele and the male offspring allele are printed below the locus.
+If a putative parthenogen allele differs from the maternal homozygous genotype, the discordant maternal allele and the offspring allele are printed below the locus.
 
 Please refer to the maternal homozygous loci summary output file for summary statistics.
 

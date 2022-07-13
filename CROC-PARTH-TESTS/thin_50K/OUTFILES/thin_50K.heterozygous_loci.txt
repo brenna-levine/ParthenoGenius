@@ -1,8020 +1,2238 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
-######## Data generated: 17/06/2022 20:18:43 #########
+######## Data generated: 13/07/2022 15:55:13 #########
 
 
 Parameters:
 	Infile = CROC-PARTH-TESTS/thin_50K/INFILES/thin_50K.csv
 	Outfile = CROC-PARTH-TESTS/thin_50K/OUTFILES/thin_50K
-	Error = 0.001
+	Estimated Error Rate from Previous Homozygosity Scan = 0.00031
 	Max_Het = 0.8
 
 
 The following are the locus IDs for the loci at which the mom is heterozygous.
-If a male is homozygous for one of the mom's alleles, the mom's and male's alleles are printed below and the maternal allele that matches the offspring homozygous genotype is defined.
+If the offspring is heterozygous for one of the mom's alleles, the mom's and offspring's alleles are printed below.
 
 Please refer to the maternal heterozygous loci summary output file for summary statistics.
 
 Locus: SNP_17
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_41
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: SNP_274
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_275
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_365
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_418
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_420
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_438
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_459
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_484
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_499
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_501
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_557
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_594
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_625
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_644
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_663
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_671
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_672
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_701
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_984
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_989
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_1048
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_1135
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_1227
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_1249
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_1250
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_1258
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_1271
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_1311
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_1408
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_1567
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_1650
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_1726
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_1753
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_1891
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2070
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_2200
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2234
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_2256
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2262
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_2314
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2324
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_2420
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2422
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_2428
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2857
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_2862
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2889
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_2939
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_2977
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3012
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3025
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3057
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3061
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3420
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3484
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3537
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3560
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3562
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3563
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3577
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3581
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3614
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3630
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3659
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3691
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3697
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3759
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3829
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3833
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3838
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3865
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3874
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3876
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_3974
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_3986
 
-Locus: SNP_4036
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+Locus: SNP_4036
 
 Locus: SNP_4056
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4143
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4259
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4284
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4300
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4357
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4375
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4399
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4532
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4563
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4608
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4658
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4766
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4835
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4923
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4945
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4946
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4960
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4968
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4984
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_4991
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_4999
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: SNP_5000
 
-Locus: SNP_5015
-
 	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Mom allele 2: 3
+	Offspring allele 1: 4
+	Offspring allele 2: 3
+
+Locus: SNP_5015
 
 Locus: SNP_5017
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5052
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5063
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5078
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5099
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5136
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5141
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5144
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5147
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5151
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5152
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5160
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5170
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5174
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5191
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5212
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5215
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5223
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5224
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5237
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5276
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5301
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5314
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5315
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5346
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5357
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5358
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5374
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5378
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5421
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5429
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5438
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5477
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5493
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5561
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5598
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5607
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5612
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5678
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5776
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5781
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5840
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_5986
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_5987
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6001
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6152
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6178
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6227
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6234
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6240
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6261
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6268
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6380
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6459
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6462
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6463
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6467
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6472
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6536
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6541
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6562
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6592
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6615
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6649
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6659
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6670
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6685
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6701
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6703
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6734
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6769
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6771
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6774
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6868
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6882
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6898
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6910
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_6955
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_6992
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7063
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7069
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7089
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7126
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7256
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7262
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7264
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7302
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7437
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7465
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7466
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7467
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7472
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7483
 
-Locus: SNP_7559
-
 	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_7559
 
 Locus: SNP_7565
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7581
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7603
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7636
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7833
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_7847
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_7951
 
-Locus: SNP_7973
-
 	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
+Locus: SNP_7973
 
 Locus: SNP_8025
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8143
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8145
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8159
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8183
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8187
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8221
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8239
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8282
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8299
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8344
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8347
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8361
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8394
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8420
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8443
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8457
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8571
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8573
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8599
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8632
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8670
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8698
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8865
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_8901
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_8966
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9025
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9063
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9093
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9109
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9113
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9117
+
+	Mom allele 1: 2
+	Mom allele 2: 1
+	Offspring allele 1: 2
+	Offspring allele 2: 1
 
 Locus: SNP_9155
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9290
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9291
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9314
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9325
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9338
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9340
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9343
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9351
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9407
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9413
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9417
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9449
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9452
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9513
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9547
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9572
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9584
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9589
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9591
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9599
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9716
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
 
 Locus: SNP_9717
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9718
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9735
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9770
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_9838
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_9999
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10111
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10193
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10196
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10344
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10393
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10407
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10410
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10503
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10535
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10563
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10642
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10705
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10706
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10720
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_10723
 
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
 Locus: SNP_10776
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: SNP_10810
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_10974
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11061
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11075
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11078
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11081
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11151
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11167
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11171
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11212
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11227
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11360
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11365
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11401
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11412
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11454
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11466
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11584
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11677
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11749
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11800
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11885
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11910
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11921
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_11922
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_11965
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12083
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12091
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12097
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12133
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12176
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12189
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12199
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12210
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12229
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12251
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12364
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12374
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12379
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12398
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12409
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12437
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12448
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12498
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12546
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12594
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12610
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12611
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12615
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12619
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12661
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12684
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12689
 
-Locus: SNP_12694
-
 	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Mom allele 2: 1
+	Offspring allele 1: 4
+	Offspring allele 2: 1
+
+Locus: SNP_12694
 
 Locus: SNP_12714
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12718
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12725
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12814
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12824
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12834
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12924
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_12960
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_12964
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13098
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13102
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13117
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13244
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13308
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13416
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13425
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13451
 
-Locus: SNP_13542
-
-	Mom allele 1: 4
-	Mom allele 2: 3
+	Mom allele 1: 3
+	Mom allele 2: 4
 	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Offspring allele 2: 4
+
+Locus: SNP_13542
 
 Locus: SNP_13590
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13670
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13684
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13696
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13705
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13764
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13852
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13859
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13894
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13912
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_13926
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_13953
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14046
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14121
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14137
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14138
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14153
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14171
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14173
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14209
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14223
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14261
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: SNP_14264
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14356
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14439
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14456
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14567
 
-Locus: SNP_14587
-
 	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
+
+Locus: SNP_14587
 
 Locus: SNP_14634
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14637
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14664
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14736
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14772
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14893
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_14949
 
-Locus: SNP_14953
-
 	Mom allele 1: 3
 	Mom allele 2: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: SNP_14953
 
 Locus: SNP_14972
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_14982
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15033
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15040
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15087
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15119
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15132
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15139
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15162
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15186
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15231
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15238
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15444
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15539
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15689
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15700
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15768
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15859
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15892
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15936
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15941
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15942
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_15970
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_15987
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16058
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16062
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16063
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16068
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16071
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16085
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16098
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16106
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16124
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16134
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16192
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16288
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16399
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16402
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16460
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16508
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16515
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16516
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16517
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16558
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16602
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16607
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16639
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16640
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16679
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16726
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16740
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16741
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16742
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16745
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16790
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16841
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16909
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16956
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_16960
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_16978
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17049
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_17105
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17114
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_17121
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17173
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_17210
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17575
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_17594
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17607
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_17610
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17623
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_17665
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17670
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_17729
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_17739
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18209
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18210
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18271
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18275
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18290
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18367
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18375
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18380
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18385
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18389
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18409
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18417
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18492
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18499
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18511
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18531
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18619
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18630
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18715
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18884
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18886
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18888
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18889
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_18933
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_18988
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19024
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19036
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19092
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19093
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19147
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19150
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19186
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19204
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19215
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19225
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19266
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19284
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19287
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19308
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19330
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19382
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19409
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19458
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19468
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19530
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19601
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19604
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19657
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19675
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19727
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19793
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19836
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19902
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19926
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_19939
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_19961
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20004
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20022
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20035
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20040
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20046
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20096
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20109
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20143
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20169
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20219
 
-Locus: SNP_20240
-
 	Mom allele 1: 3
 	Mom allele 2: 1
-	Offspring allele 1: 1
+	Offspring allele 1: 3
 	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: SNP_20240
 
 Locus: SNP_20260
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20297
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20306
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20318
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20330
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20333
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20347
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20404
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20441
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20648
+
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
 
 Locus: SNP_20753
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20801
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20815
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20843
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20845
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20854
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
 
 Locus: SNP_20866
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20906
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20958
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_20978
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_20997
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_21015
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_21130
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_21132
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_21207
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_21217
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_21262
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_21263
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_21282
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_21356
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_21535
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_21880
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_21884
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_21955
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22054
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22080
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22087
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22190
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22205
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22261
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22307
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22403
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22409
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22431
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22469
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22517
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22544
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22592
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22594
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22602
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22688
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22819
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: SNP_22847
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22856
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_22944
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_22991
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23024
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23052
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23098
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23102
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23104
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23118
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23149
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23177
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23239
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23255
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23259
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23267
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23318
 
-Locus: SNP_23333
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+Locus: SNP_23333
 
 Locus: SNP_23340
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23394
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23396
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23439
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23503
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23661
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23664
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23672
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23675
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23681
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23701
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23724
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23736
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23743
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23754
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23824
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23842
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23857
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23959
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_23974
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_23992
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24040
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24059
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24078
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24164
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24196
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24282
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24342
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24406
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24479
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24494
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24495
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24661
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24697
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24755
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24768
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24847
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24877
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24885
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_24893
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_24908
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25024
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25210
 
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
+
 Locus: SNP_25289
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
 
 Locus: SNP_25353
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25378
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25471
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25591
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25602
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25681
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25690
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25736
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25767
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25835
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25852
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25856
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25890
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25925
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25927
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_25929
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_25977
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26067
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26074
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26131
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26143
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26153
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26246
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26346
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26347
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26399
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26446
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26564
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26569
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26584
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26597
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26748
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26750
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26759
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26760
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_26835
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_26925
 
-Locus: SNP_27189
-
 	Mom allele 1: 1
 	Mom allele 2: 3
-	Offspring allele 1: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: SNP_27189
 
 Locus: SNP_27223
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27270
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27284
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27285
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27303
 
-Locus: SNP_27306
-
-	Mom allele 1: 4
+	Mom allele 1: 3
 	Mom allele 2: 2
-	Offspring allele 1: 2
+	Offspring allele 1: 3
 	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: SNP_27306
 
 Locus: SNP_27338
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27375
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27432
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27433
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27456
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27499
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27503
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27574
+
+	Mom allele 1: 3
+	Mom allele 2: 4
+	Offspring allele 1: 3
+	Offspring allele 2: 4
 
 Locus: SNP_27651
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27652
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27689
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27695
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27715
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27721
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27746
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27773
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27795
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27805
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27807
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27868
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_27917
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_27980
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28025
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28084
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28215
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28229
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28261
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28267
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28350
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28353
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28355
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28367
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28380
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28382
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28410
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28435
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28485
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28488
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28498
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28506
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28566
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28568
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28579
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28614
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28616
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28643
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28686
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28727
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28806
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28816
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28847
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_28889
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_28910
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29000
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29072
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29092
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29114
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29122
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29125
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29127
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29132
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29152
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29158
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29241
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
 
 Locus: SNP_29263
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29368
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29434
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29477
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29514
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29634
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29639
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29641
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29681
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29686
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29690
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29705
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29722
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29741
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29858
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29877
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29977
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29985
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29990
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_29998
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_29999
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30001
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30068
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30179
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30224
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30232
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30236
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30257
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30262
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30348
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30417
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30420
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30485
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30503
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30619
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30637
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_30780
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_30997
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31040
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31056
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31098
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31178
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31214
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31229
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31230
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31279
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31319
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31326
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31352
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31355
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31382
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31398
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31437
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31441
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31457
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31466
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31479
 
-Locus: SNP_31654
+	Mom allele 1: 4
+	Mom allele 2: 2
+	Offspring allele 1: 4
+	Offspring allele 2: 2
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+Locus: SNP_31654
 
 Locus: SNP_31682
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31708
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31739
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31789
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31947
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31953
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31964
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_31967
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_31972
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_32000
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_32090
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_32137
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_32216
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_32234
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_32236
 
-Locus: SNP_32320
-
-	Mom allele 1: 4
-	Mom allele 2: 2
+	Mom allele 1: 2
+	Mom allele 2: 1
 	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Offspring allele 2: 1
+
+Locus: SNP_32320
 
 Locus: SNP_32404
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_32635
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_32765
 
-Locus: SNP_32849
-
-	Mom allele 1: 3
-	Mom allele 2: 2
+	Mom allele 1: 2
+	Mom allele 2: 4
 	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Offspring allele 2: 4
+
+Locus: SNP_32849
 
 Locus: SNP_32898
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_32909
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33056
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33130
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33160
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33353
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33430
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33450
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33483
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33487
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33571
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33610
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33678
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33684
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33696
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33727
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33768
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33813
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33838
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33844
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33905
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33938
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33953
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_33987
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_33996
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34019
+
+	Mom allele 1: 2
+	Mom allele 2: 4
+	Offspring allele 1: 2
+	Offspring allele 2: 4
 
 Locus: SNP_34022
 
-Locus: SNP_34098
-
-	Mom allele 1: 1
-	Mom allele 2: 3
+	Mom allele 1: 3
+	Mom allele 2: 2
 	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+	Offspring allele 2: 2
+
+Locus: SNP_34098
 
 Locus: SNP_34101
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34112
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34133
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34161
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34222
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34239
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34321
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34323
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34336
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34340
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34359
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34447
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34475
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34569
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34571
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34587
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34603
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34610
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34639
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34652
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34694
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34728
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34730
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34745
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34807
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34833
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34841
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34843
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34848
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34927
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34928
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34960
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34961
 
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_34969
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_34994
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35052
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35062
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35076
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35161
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35282
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35313
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35349
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35370
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35371
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35406
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35414
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35483
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35498
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35503
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35521
-
-	Mom allele 1: 3
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35534
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35568
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35576
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35624
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35643
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35691
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35717
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_35847
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_35856
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36105
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36483
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36502
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36627
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36628
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36634
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36635
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36652
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36656
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
 
 Locus: SNP_36657
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36696
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36698
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36718
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36730
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36740
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36747
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36791
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36811
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36813
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36829
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36854
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36870
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36871
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_36904
 
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_36988
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37023
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37219
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37283
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37293
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37414
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37434
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37511
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37517
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37560
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37571
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37581
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37596
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37636
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37650
-
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37663
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37738
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37748
 
-Locus: SNP_37790
-
 	Mom allele 1: 1
 	Mom allele 2: 3
-	Offspring allele 1: 3
+	Offspring allele 1: 1
 	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
+
+Locus: SNP_37790
 
 Locus: SNP_37793
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37835
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37872
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_37905
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_37998
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38044
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38090
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38101
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38105
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38118
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38135
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38136
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38159
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38190
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38200
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38237
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38253
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38265
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38272
 
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38304
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38305
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38344
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38349
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38357
-
-	Mom allele 1: 2
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38358
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38359
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38370
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38615
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38634
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38684
-
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38691
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38746
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38759
 
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38772
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38773
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38780
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38812
 
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38818
-
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38833
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38847
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38862
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38867
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38889
 
-	Mom allele 1: 1
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38896
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38951
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38978
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_38986
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_38995
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39012
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39168
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39198
 
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39310
-
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39323
 
-	Mom allele 1: 3
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39362
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39442
 
-	Mom allele 1: 4
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39458
-
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39476
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39507
-
-	Mom allele 1: 4
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39512
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39559
-
-	Mom allele 1: 3
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39603
 
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 3
-	Offspring allele 2: 3
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39616
-
-	Mom allele 1: 2
-	Mom allele 2: 1
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39707
 
-	Mom allele 1: 4
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39713
-
-	Mom allele 1: 1
-	Mom allele 2: 2
-	Offspring allele 1: 2
-	Offspring allele 2: 2
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
 
 Locus: SNP_39723
 
-	Mom allele 1: 2
-	Mom allele 2: 4
-	Offspring allele 1: 4
-	Offspring allele 2: 4
-	Mom's allele that matches homozygous genotype of offspring: Allele 2
-
 Locus: SNP_39738
+
+	Mom allele 1: 3
+	Mom allele 2: 1
+	Offspring allele 1: 3
+	Offspring allele 2: 1
 

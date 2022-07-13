@@ -1,5 +1,5 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI SUMMARY ########
-######## Data generated: 16/06/2022 16:34:03 #########
+######## Data generated: 13/07/2022 15:44:21 #########
 
 
 Parameters:
@@ -9,16 +9,16 @@ Parameters:
 	Max_Het = 0.8
 
 
-SUMMARY OF RESULTS: SCAN OF MATERNAL HOMOZYGOUS LOCI FOR HETEROZYGOUS MALE OFFSPRING GENOTYPES
+SUMMARY OF RESULTS: SCAN OF MATERNAL HOMOZYGOUS LOCI FOR DISCORDANT OFFSPRING GENOTYPES
 
 Total number of loci analyzed: 20562
 Number of loci for which mom is homozygous: 20284
-Number of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: 123
-Proportion of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: 0.006
-Proportion of mom's homozygous loci for which male has identical homozygous genotype to maternal genotype: 0.994
+Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 123
+Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.00606
+Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 0.99394
 
 
 THE OFFSPRING IS LIKELY A PARTHENOGEN.
 
-	The proportion of mom's homozygous loci at which at least one of male's alleles differs from maternal alleles is less than the error rate.
-	Incongruence between maternal genotypes and offspring genotypes at these loci is likely due to sequencing/genotyping error rather than the presence of paternal alleles.
+	The proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is less than the error rate.
+	Incongruence between maternal genotypes and offspring genotypes at these loci is likely due to sequencing error rather than the presence of paternal alleles.

@@ -11,7 +11,7 @@ parser=argparse.ArgumentParser(description='ParthenoGenius')
 #add positional arguments to argument parser (i.e., the required information)
 parser.add_argument('infile', help="csv file with maternal and putative parthenogen alleles - See README for format")
 parser.add_argument('outfile', help="prefix for naming output files")
-parser.add_argument('--error', help="sequencing error tolerated; default = 0.001; see README for explanation", nargs="?", const=1, default=0.001)
+parser.add_argument('--error', help="sequencing error limit; default = 0.01; see README for explanation", nargs="?", const=1, default=0.01)
 parser.add_argument('--max_het', help="maximum heterozygosity limit beyond which to call central fusion automixis; default = 0.8, see README for explanation", nargs="?", const=1, default=0.8)
 
 #parse arguments
@@ -61,7 +61,7 @@ with open(outfile_homozyg, 'w') as fileobject: #with homozygous loci file open f
     fileobject.write(f"######## Data generated: {now_str} #########\n\n\n")
     fileobject.write(f"Parameters:\n\tInfile = {args.infile}\n\tOutfile = {args.outfile}\n\tError = {args.error}\n\tMax_Het = {args.max_het}\n\n\n")
     fileobject.write(f"The following are the locus IDs for the loci at which the mom is homozygous.\n")
-    fileobject.write(f"If a male allele differs from the maternal homozygous genotype (i.e., evidence of paternal alleles or genotyping error), the discordant maternal allele and the male offspring allele are printed below the locus.\n\n")
+    fileobject.write(f"If a putative parthenogen allele differs from the maternal homozygous genotype, the discordant maternal allele and the offspring allele are printed below the locus.\n\n")
     fileobject.write(f"Please refer to the maternal homozygous loci summary output file for summary statistics.\n\n\n")
     
     for (columnName, columnData) in structure_alleles.iteritems():  #for column/value pair
@@ -86,29 +86,32 @@ with open(outfile_homozyg, 'w') as fileobject: #with homozygous loci file open f
 #close fileobject
 fileobject.close()
 
+#define variable to hold estimated error rate for maternal heterozygosity scan
+estim_error = (len(males)/len(mom_homozyg))
+
     
 with open(outfile_homozyg_sum, 'w') as fileobject: #with homozygosity summary outfile open for writing
     #write summary statistics about the data to the outfile
     fileobject.write(f"######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI SUMMARY ########\n")
     fileobject.write(f"######## Data generated: {now_str} #########\n\n\n") #write the date and time to the outfile
     fileobject.write(f"Parameters:\n\tInfile = {args.infile}\n\tOutfile = {args.outfile}\n\tError = {args.error}\n\tMax_Het = {args.max_het}\n\n\n")
-    fileobject.write("SUMMARY OF RESULTS: SCAN OF MATERNAL HOMOZYGOUS LOCI FOR HETEROZYGOUS MALE OFFSPRING GENOTYPES\n\n")
+    fileobject.write("SUMMARY OF RESULTS: SCAN OF MATERNAL HOMOZYGOUS LOCI FOR DISCORDANT OFFSPRING GENOTYPES\n\n")
     fileobject.write(f"Total number of loci analyzed: {column_total}\n")
     fileobject.write(f"Number of loci for which mom is homozygous: {len(mom_homozyg)}\n")
-    fileobject.write(f"Number of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: {len(males)}\n")
-    fileobject.write(f"Proportion of mom's homozygous loci for which at least one of male's alleles differ from maternal alleles: {round(len(males)/len(mom_homozyg), 5)}\n")
-    fileobject.write(f"Proportion of mom's homozygous loci for which male has identical homozygous genotype to maternal genotype: {round(1 - (len(males)/len(mom_homozyg)), 5)}\n\n\n")
+    fileobject.write(f"Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: {len(males)}\n")
+    fileobject.write(f"Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: {round(len(males)/len(mom_homozyg), 5)}\n")
+    fileobject.write(f"Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: {round(1 - (len(males)/len(mom_homozyg)), 5)}\n\n\n")
 
     #Test for significance - if proportion on mom's homozygous loci for which at least one of male's alleles differ from maternal alleles is less
     #than or equal to default or user-defined sequencing error rate, call a likely parthenogen
     if (len(males)/len(mom_homozyg)) <= float(args.error):
         fileobject.write(f"THE OFFSPRING IS LIKELY A PARTHENOGEN.\n")
-        fileobject.write(f"\n\tThe proportion of mom's homozygous loci at which at least one of male's alleles differs from maternal alleles is less than the error rate.\n")
-        fileobject.write(f"\tIncongruence between maternal genotypes and offspring genotypes at these loci is likely due to sequencing/genotyping error rather than the presence of paternal alleles.")
+        fileobject.write(f"\n\tThe proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is less than the error rate.\n")
+        fileobject.write(f"\tIncongruence between maternal genotypes and offspring genotypes at these loci is likely due to sequencing error rather than the presence of paternal alleles.")
     else:
         fileobject.write(f"THE OFFSPRING IS UNLIKELY TO BE A PARTHENOGEN.\n")
-        fileobject.write(f"\n\tThe proportion of mom's homozygous loci for which at least one of male's alleles differs from maternal alleles exceeds the error rate.\n")
-        fileobject.write(f"\tIncongruence between maternal homozogyous genotypes and offspring genotypes at these loci are likely due to presence of paternal alleles.\n\n\n")
+        fileobject.write(f"\n\tThe proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles exceeds the error rate.\n")
+        fileobject.write(f"\tIncongruence between maternal homozygous genotypes and offspring genotypes at these loci are likely due to presence of paternal alleles.\n\n\n")
         fileobject.write(f"Note: Maternal heterozygosity analysis will not be conducted to test for mode of parthenogenesis.\n")
         fileobject.write(f"Note: Heterozygosity outfiles will not be created.")
 
@@ -130,9 +133,9 @@ if (len(males)/len(mom_homozyg)) <= float(args.error): #if evidence of parthenog
         #write statements to outfile to appear before loci are returned 
         fileobject.write(f"######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########\n")
         fileobject.write(f"######## Data generated: {now_str} #########\n\n\n") #write date and time to outfile
-        fileobject.write(f"Parameters:\n\tInfile = {args.infile}\n\tOutfile = {args.outfile}\n\tError = {args.error}\n\tMax_Het = {args.max_het}\n\n\n")
+        fileobject.write(f"Parameters:\n\tInfile = {args.infile}\n\tOutfile = {args.outfile}\n\tEstimated Error Rate from Previous Homozygosity Scan = {round(estim_error, 5)}\n\tMax_Het = {args.max_het}\n\n\n")
         fileobject.write(f"The following are the locus IDs for the loci at which the mom is heterozygous.\n") 
-        fileobject.write(f"If a male is homozygous for one of the mom's alleles, the mom's and male's alleles are printed below and the maternal allele that matches the offspring homozygous genotype is defined.\n\n")
+        fileobject.write(f"If the offspring is heterozygous for one of the mom's alleles, the mom's and offspring's alleles are printed below.\n\n")
         fileobject.write(f"Please refer to the maternal heterozygous loci summary output file for summary statistics.\n\n")
         
         for (columnName, columnData) in structure_alleles.iteritems():  #for column/value pair
@@ -145,26 +148,44 @@ if (len(males)/len(mom_homozyg)) <= float(args.error): #if evidence of parthenog
                 fileobject.write(f"Locus: {columnName}\n\n") #write the locus name to the outfile
                 mom_het.append(columnName) #append the locus name to the mom_het list
         
-                if mom1 == columnData.values[2] and mom1 == columnData.values[3]: #if mom allele = offspring allele  
+                if mom1 == columnData.values[2] and mom1 != columnData.values[3]: #if mom allele 1 = offspring allele 1 but not offspring allele 2  
 
                     #write data to the outfile
                     fileobject.write(f"\tMom allele 1: {mom1}") 
                     fileobject.write(f"\n\tMom allele 2: {mom2}") 
                     fileobject.write(f"\n\tOffspring allele 1: {columnData.values[2]}") 
-                    fileobject.write(f"\n\tOffspring allele 2: {columnData.values[3]}")
-                    fileobject.write(f"\n\tMom's allele that matches homozygous genotype of offspring: Allele 1\n\n")
+                    fileobject.write(f"\n\tOffspring allele 2: {columnData.values[3]}\n\n")
+
+                    males.append(columnData.values[3]) #append male allele to males list
+
+                elif mom1 != columnData.values[2] and mom1 == columnData.values[3]: #if mom allele 1 = offspring allele 2 but not offspring allele 1 
+
+                    #write data to the outfile
+                    fileobject.write(f"\tMom allele 1: {mom1}") 
+                    fileobject.write(f"\n\tMom allele 2: {mom2}") 
+                    fileobject.write(f"\n\tOffspring allele 1: {columnData.values[2]}") 
+                    fileobject.write(f"\n\tOffspring allele 2: {columnData.values[3]}\n\n")
 
                     males.append(columnData.values[2]) #append male allele to males list
         
-                elif mom2 == columnData.values[2] and mom2 == columnData.values[3]: #if mom allele = offspring allele  
+                elif mom2 == columnData.values[2] and mom2 != columnData.values[3]: #if mom allele 2 = offspring allele 1 but not offspring allele 2 
 
                     #write data to the outfile
                     fileobject.write(f"\tMom allele 1: {mom1}") 
                     fileobject.write(f"\n\tMom allele 2: {mom2}") 
                     fileobject.write(f"\n\tOffspring allele 1: {columnData.values[2]}") 
-                    fileobject.write(f"\n\tOffspring allele 2: {columnData.values[3]}")
-                    fileobject.write(f"\n\tMom's allele that matches homozygous genotype of offspring: Allele 2\n\n")
+                    fileobject.write(f"\n\tOffspring allele 2: {columnData.values[3]}\n\n")
+                    
+                    males.append(columnData.values[3]) #append male allele to males list
 
+                elif mom2 != columnData.values[2] and mom2 == columnData.values[3]: #if mom allele 2 = offspring allele 2 but not offspring allele 1 
+
+                    #write data to the outfile
+                    fileobject.write(f"\tMom allele 1: {mom1}") 
+                    fileobject.write(f"\n\tMom allele 2: {mom2}") 
+                    fileobject.write(f"\n\tOffspring allele 1: {columnData.values[2]}") 
+                    fileobject.write(f"\n\tOffspring allele 2: {columnData.values[3]}\n\n")
+                    
                     males.append(columnData.values[2]) #append male allele to males list
 
     #close the fileobject
@@ -175,27 +196,26 @@ if (len(males)/len(mom_homozyg)) <= float(args.error): #if evidence of parthenog
         #write statements to outfile
         fileobject.write(f"######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########\n")
         fileobject.write(f"######## Data generated: {now_str} #########\n\n\n")
-        fileobject.write(f"Parameters:\n\tInfile = {args.infile}\n\tOutfile = {args.outfile}\n\tError = {args.error}\n\tMax_Het = {args.max_het}\n\n\n")
-        fileobject.write(f"SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR HOMOZYGOUS GENOTYPES OF MALE OFFSPRING\n\n")
+        fileobject.write(f"Parameters:\n\tInfile = {args.infile}\n\tOutfile = {args.outfile}\n\tEstimated Error Rate from Previous Homozygosity Scan = {round(estim_error, 5)}\n\tMax_Het = {args.max_het}\n\n\n")
+        fileobject.write(f"SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR OFFSPRING RETAINED HETEROZYGOSITY\n\n")
         fileobject.write(f"Total number of loci analyzed: {column_total}\n")
         fileobject.write(f"Number of loci for which mom is heterozygous: {len(mom_het)}\n") #print total number of loci
-        fileobject.write(f"Number of mom's heterozygous loci at which male is homozygous for a maternal allele: {len(males)}\n") #print number of loci for which all males have paternal alleles
-        fileobject.write(f"Proportion of mom's heterozygous loci for which male is homozygous for maternal allele: {round(len(males)/len(mom_het), 5)}\n")
-        fileobject.write(f"Proportion of mom's heterozygous loci for which male is NOT homozygous for maternal allele (i.e., heterozygous): {round(1 - (len(males)/len(mom_het)), 5)}\n\n")
+        fileobject.write(f"Number of mom's heterozygous loci for which offspring has retained heterozygosity for a maternal allele: {len(males)}\n") #print number of loci for which all males have paternal alleles
+        fileobject.write(f"Proportion of mom's heterozygous loci for which offspring has retained heterozygosity for a maternal allele: {round(len(males)/len(mom_het), 5)}\n\n")
 
         #Test for significance - if proportion on mom's heterozygous loci for which male is heterozygous differ is less
         #than or equal to default or user-defined sequencing error rate, call a likely parthenogen
-        if (1 - (len(males)/len(mom_het))) > float(args.error) and (1 - (len(males)/len(mom_het))) < float(args.max_het):
-            fileobject.write(f"This parthenogen was likely produced via:\tTERMINAL FUSION\n\n")
-            fileobject.write(f"\tThe proportion of mom's heterozygous loci for which male is heterozygous exceeds the error rate.\n")
-            fileobject.write(f"\tTherefore, observed offspring heterozygosity at these loci is likely real and not an artifact of sequencing/genotyping error.")
-        elif (1 - (len(males)/len(mom_het))) < float(args.error):
+        if ((len(males)/len(mom_het))) > float(estim_error) and ((len(males)/len(mom_het))) < float(args.max_het):
+            fileobject.write(f"This parthenogen was likely produced via:\tTERMINAL FUSION AUTOMIXIS\n\n")
+            fileobject.write(f"\tThe proportion of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the estimated error rate from the homozygosity scan.\n")
+            fileobject.write(f"\tTherefore, offspring heterozygosity at these loci is not likely an artifact of sequencing error.")
+        elif ((len(males)/len(mom_het))) < float(estim_error):
             fileobject.write(f"This parthenogen was likely produced via:\tGAMETIC DUPLICATION\n\n")
-            fileobject.write(f"\tThe proportion of mom's heterozygous loci for which male is heterozygous is less than the error rate.\n")
-            fileobject.write(f"\tTherefore, male heterozygosity at these loci is likely due to sequencing/genotyping error.")
-        elif (1 - (len(males)/len(mom_het))) > float(args.max_het):
-            fileobject.write(f"This parthenogen was likely produced via:\tCENTRAL FUSION\n\n")
-            fileobject.write(f"\tThe mom and offspring have a similar number of heterozygous loci.\n")
+            fileobject.write(f"\tThe proportion of mom's heterozygous loci for which offspring has retained heterozygosity is less than the estimated error rate from the homozygosity scan.\n")
+            fileobject.write(f"\tTherefore, offspring heterozygosity at these loci is likely an artifact of sequencing error.")
+        elif ((len(males)/len(mom_het))) > float(args.max_het):
+            fileobject.write(f"This parthenogen was likely produced via:\tCENTRAL FUSION AUTOMIXIS\n\n")
+            fileobject.write(f"\tThe mom and offspring have a similar number of heterozygous loci (i.e., limited reduction in offspring heterozygosity).\n")
      
 
     #close the fileobject

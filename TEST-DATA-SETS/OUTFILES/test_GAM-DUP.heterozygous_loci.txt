@@ -1,16 +1,16 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
-######## Data generated: 16/06/2022 16:36:38 #########
+######## Data generated: 13/07/2022 15:36:12 #########
 
 
 Parameters:
-	Infile = TEST-DATA-SETS/INFILES/test_CEN-FUS.csv
-	Outfile = TEST-DATA-SETS/OUTFILES/cen-fus
-	Error = 0.01
+	Infile = TEST-DATA-SETS/INFILES/test_GAM-DUP.csv
+	Outfile = TEST-DATA-SETS/OUTFILES/test_GAM-DUP
+	Estimated Error Rate from Previous Homozygosity Scan = 0.00714
 	Max_Het = 0.8
 
 
 The following are the locus IDs for the loci at which the mom is heterozygous.
-If a male is homozygous for one of the mom's alleles, the mom's and male's alleles are printed below and the maternal allele that matches the offspring homozygous genotype is defined.
+If the offspring is heterozygous for one of the mom's alleles, the mom's and offspring's alleles are printed below.
 
 Please refer to the maternal heterozygous loci summary output file for summary statistics.
 
@@ -37,12 +37,6 @@ Locus: SNP31
 Locus: SNP35
 
 Locus: SNP36
-
-	Mom allele 1: 1
-	Mom allele 2: 3
-	Offspring allele 1: 1
-	Offspring allele 2: 1
-	Mom's allele that matches homozygous genotype of offspring: Allele 1
 
 Locus: SNP41
 

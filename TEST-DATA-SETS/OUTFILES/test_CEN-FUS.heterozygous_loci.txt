@@ -1,0 +1,431 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
+######## Data generated: 13/07/2022 15:36:15 #########
+
+
+Parameters:
+	Infile = TEST-DATA-SETS/INFILES/test_CEN-FUS.csv
+	Outfile = TEST-DATA-SETS/OUTFILES/test_CEN-FUS
+	Estimated Error Rate from Previous Homozygosity Scan = 0.00714
+	Max_Het = 0.8
+
+
+The following are the locus IDs for the loci at which the mom is heterozygous.
+If the offspring is heterozygous for one of the mom's alleles, the mom's and offspring's alleles are printed below.
+
+Please refer to the maternal heterozygous loci summary output file for summary statistics.
+
+Locus: SNP1
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 3
+	Offspring allele 2: 1
+
+Locus: SNP5
+
+	Mom allele 1: 2
+	Mom allele 2: 1
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP6
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP11
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP15
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP16
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP21
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP25
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP26
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP31
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP35
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP36
+
+Locus: SNP41
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP45
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP46
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP51
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP55
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP56
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP61
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP65
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP66
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP71
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP75
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP76
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP81
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP85
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP86
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP91
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP95
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP96
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP101
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP105
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP106
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP111
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP115
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP116
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP121
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP125
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP126
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP131
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP135
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP136
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP141
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP145
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP146
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP151
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP155
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP156
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP161
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP165
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP166
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP171
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP175
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP176
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP181
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP185
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP186
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP191
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
+Locus: SNP195
+
+	Mom allele 1: 1
+	Mom allele 2: 2
+	Offspring allele 1: 1
+	Offspring allele 2: 2
+
+Locus: SNP196
+
+	Mom allele 1: 1
+	Mom allele 2: 3
+	Offspring allele 1: 1
+	Offspring allele 2: 3
+
