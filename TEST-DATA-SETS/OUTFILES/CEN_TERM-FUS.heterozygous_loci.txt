@@ -1,16 +1,17 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI #########
-######## Data generated: 13/07/2022 15:36:15 #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 20/07/2022 16:52:26 #########
 
 
 Parameters:
 	Infile = TEST-DATA-SETS/INFILES/test_CEN-FUS.csv
-	Outfile = TEST-DATA-SETS/OUTFILES/test_CEN-FUS
+	Outfile = TEST-DATA-SETS/OUTFILES/CEN_TERM-FUS
 	Estimated Error Rate from Previous Homozygosity Scan = 0.00714
 	Max_Het = 0.8
 
 
-The following are the locus IDs for the loci at which the mom is heterozygous.
-If the offspring is heterozygous for one of the mom's alleles, the mom's and offspring's alleles are printed below.
+The following are the IDs for the loci at which the mom is heterozygous.
+If the offspring is heterozygous for the mom's alleles, the mom's and offspring's alleles are printed below.
 
 Please refer to the maternal heterozygous loci summary output file for summary statistics.
 

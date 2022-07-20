@@ -1,5 +1,6 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI SUMMARY ########
-######## Data generated: 13/07/2022 15:44:31 #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 20/07/2022 17:04:12 #########
 
 
 Parameters:

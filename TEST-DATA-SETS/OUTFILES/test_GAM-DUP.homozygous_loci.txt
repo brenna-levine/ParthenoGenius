@@ -1,5 +1,6 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI ########
-######## Data generated: 13/07/2022 15:36:12 #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 20/07/2022 16:54:05 #########
 
 
 Parameters:
@@ -9,8 +10,8 @@ Parameters:
 	Max_Het = 0.8
 
 
-The following are the locus IDs for the loci at which the mom is homozygous.
-If a putative parthenogen allele differs from the maternal homozygous genotype, the discordant maternal allele and the offspring allele are printed below the locus.
+The following are the IDs for the loci at which the mom is homozygous.
+If an offspring allele differs from the maternal homozygous genotype, the discordant maternal allele and the offspring allele are printed below the locus.
 
 Please refer to the maternal homozygous loci summary output file for summary statistics.
 

@@ -1,5 +1,6 @@
 ######## PARTHENOGENIUS - OUTPUT FILE: HETEROZYGOUS LOCI SUMMARY #########
-######## Data generated: 13/07/2022 15:44:21 #########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 20/07/2022 17:04:01 #########
 
 
 Parameters:
@@ -13,8 +14,8 @@ SUMMARY: SCAN OF MATERNAL HETEROZYGOUS LOCI FOR OFFSPRING RETAINED HETEROZYGOSIT
 
 Total number of loci analyzed: 20562
 Number of loci for which mom is heterozygous: 278
-Number of mom's heterozygous loci for which offspring has retained heterozygosity for a maternal allele: 64
-Proportion of mom's heterozygous loci for which offspring has retained heterozygosity for a maternal allele: 0.23022
+Number of mom's heterozygous loci for which offspring has retained heterozygosity: 64
+Proportion of mom's heterozygous loci for which offspring has retained heterozygosity: 0.23022
 
 This parthenogen was likely produced via:	TERMINAL FUSION AUTOMIXIS
 
