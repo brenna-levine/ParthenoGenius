@@ -26,6 +26,7 @@ The outfile is the a user-defined prefix to name your output files and can be an
 There are two optional arguments that can be provided to ParthenoGenius. These are: --error and --max-het
 
 --error is the estimated sequencing error rate for your data set. ***The default is 0.01***. This value will serve as a limit that determines whether the offspring is called as a parthenogen or a non-parthenogen.
+
 --max_het is a limit representing the proportion of maternal heterozygous loci for which the offspring have retained heterozygosity beyond which to call central fusion automixis. ***The default value is 0.8.*** To illustrate, if this value is set to the default (0.8), the mode of parthenogenesis is called as central fusion automixis if the offspring have retained heterozygosity at 80% or more of the maternal heterozygous loci (i.e., the offspring is heterozygous at almost all of the mom's heterozygous loci). 
 
 Choose these parameters carefully as they determine whether parthenogenesis is called and if so what mode of parthenogenesis is called.
