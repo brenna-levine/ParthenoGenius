@@ -8,7 +8,7 @@ If the offspring is called as a likely parthenogen, ParthenoGenius identifies al
 ## How to run ParthenoGenius:
 ParthenoGenius is executed from the command line and requires that python3 is installed, as well as the package "pandas" (https://pandas.pydata.org). 
 
-ParthenoGenius is executed in by typing in the following command on the command line:
+ParthenoGenius is executed by typing in the following command on the command line:
 
 ***python3  ParthenoGenius.py  infile  outfile***
 
