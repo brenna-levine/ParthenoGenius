@@ -1,0 +1,29 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI SUMMARY ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 21/07/2022 12:41:37 #########
+
+
+Parameters:
+	Infile = ATROX-PARTH-TESTS/INFILES/atrox_baby_2.csv
+	Outfile = ATROX-PARTH-TESTS/OUTFILES/atrox_baby_2
+	Error = 0.01
+	Max_Het = 0.8
+
+
+SUMMARY OF RESULTS: SCAN OF MATERNAL HOMOZYGOUS LOCI FOR DISCORDANT OFFSPRING GENOTYPES
+
+Total number of loci analyzed: 4228
+Number of loci for which mom is homozygous: 1445
+Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 974
+Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.67405
+Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 0.32595
+
+
+THE OFFSPRING IS UNLIKELY TO BE A PARTHENOGEN.
+
+	The proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles exceeds the error rate.
+	Incongruence between maternal homozygous genotypes and offspring genotypes at these loci are likely due to presence of paternal alleles.
+
+
+Note: Maternal heterozygosity analysis will not be conducted to test for mode of parthenogenesis.
+Note: Heterozygosity outfiles will not be created.
