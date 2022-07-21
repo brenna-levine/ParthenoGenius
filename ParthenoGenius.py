@@ -194,7 +194,7 @@ if (len(males)/len(mom_homozyg)) <= float(args.error): #if evidence of parthenog
             fileobject.write(f"This parthenogen was likely produced via:\tTERMINAL FUSION AUTOMIXIS\n\n")
             fileobject.write(f"\tThe proportion of mom's heterozygous loci for which offspring has retained heterozygosity is greater than the estimated error rate from the homozygosity scan.\n")
             fileobject.write(f"\tTherefore, offspring heterozygosity at these loci is not likely an artifact of sequencing error.")
-        elif ((len(males)/len(mom_het))) < float(estim_error):
+        elif ((len(males)/len(mom_het))) <= float(estim_error):
             fileobject.write(f"This parthenogen was likely produced via:\tGAMETIC DUPLICATION\n\n")
             fileobject.write(f"\tThe proportion of mom's heterozygous loci for which offspring has retained heterozygosity is less than the estimated error rate from the homozygosity scan.\n")
             fileobject.write(f"\tTherefore, offspring heterozygosity at these loci is likely an artifact of sequencing error.")
