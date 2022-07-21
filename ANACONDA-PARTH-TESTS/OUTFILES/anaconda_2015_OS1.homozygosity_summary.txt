@@ -1,0 +1,25 @@
+######## PARTHENOGENIUS - OUTPUT FILE: HOMOZYGOUS LOCI SUMMARY ########
+######## QUESTIONS? EMAIL BRENNA LEVINE - levine.brenna.a@gmail.com ########
+######## Data generated: 21/07/2022 14:23:35 #########
+
+
+Parameters:
+	Infile = ANACONDA-PARTH-TESTS/INFILES/anaconda_2015_OS1.csv
+	Outfile = ANACONDA-PARTH-TESTS/OUTFILES/anaconda_2015_OS1
+	Error = 0.01
+	Max_Het = 0.8
+
+
+SUMMARY OF RESULTS: SCAN OF MATERNAL HOMOZYGOUS LOCI FOR DISCORDANT OFFSPRING GENOTYPES
+
+Total number of loci analyzed: 16
+Number of loci for which mom is homozygous: 2
+Number of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0
+Proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles: 0.0
+Proportion of mom's homozygous loci for which offspring has identical homozygous genotypes to maternal homozygous genotypes: 1.0
+
+
+THE OFFSPRING IS LIKELY A PARTHENOGEN.
+
+	The proportion of mom's homozygous loci for which at least one of offspring's alleles differs from maternal alleles is less than the error rate.
+	Incongruence between maternal genotypes and offspring genotypes at these loci is likely due to sequencing error rather than the presence of paternal alleles.
