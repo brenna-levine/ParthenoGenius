@@ -42,6 +42,32 @@ The following is an example in which the infile is called testdata.csv, the outf
 
 ***python3 ParthenoGenius.py --error 0.05 --max_het 0.95 testdata.csv testdata***
 
+## Test Data Provided:
+There are multiple data sets that are provided with ParthenoGenius that can be used to test its functionality and experiment with parameter settings. These are:
+
+1. TEST-DATA-SETS
+2. CROC-PARTH-TESTS
+3. ATROX-PARTH-TESTS
+4. COBRA-PARTH-TESTS
+5. ANACONDA-PARTH-TESTS
+
+TEST-DATA-SETS/ contains 4 infiles that represent four data sets. These data sets include simulated data where the offspring is not a parthenogen (test_NONPARTH.csv), data where the offspring is a parthenogen produced via gametic duplication (test_GAM-DUP.csv), data where the offspring is a parthenogen produced via terminal fusion automixis (test_TERM-FUS.csv), and data where the offspring is a parthenogen produced via central fusion automixis (test_CEN-FUS.csv).
+
+The remaining data sets include real published data representing cases of parthenogenesis and nonparthenogenesis. In CROC-PARTH-TESTS/, you will find data demonstrating that a crocodile offspring is a parthenogen produced via terminal fusion automixis (in prep by Booth *et al.*). In ATROX-PARTH-TESTS/, you will find data demonstrating that multiple rattlesnake offspring are not parthenogens (published in Levine *et al.* 2021). In COBRA-PARTH-TESTS/, you will find data demonstrating that 2 cobra offspring are parthenogens produced via terminal fusion automixis (published in Card *et al.* 2021). In ANACONDA-PARTH-TESTS/, you will find data demonstrating that 2 of 4 offspring are parthenogens produced via gametic duplication (published in Shibata *et al.* 2017).
+
+## References for Published Data Sets:
+
+Booth W, Levine BA, Corush JB, Davis MA, Dwyer Q, De Plecker R, Schuett GW. In prep. Discovery of parthenogenesis in an extant archosaur.
+
+Card DC, Vonk FK, Smalbrugge S, Casewell NR, Wuster W, Castoe TA, Schuett GW, Booth W. 2021. Genome-wide data implicate terminal fusion automixis in king cobra facultative parthenogenesis. *Scientific Reports*, 11, 7271.
+
+Levine BA, Schuett GW, Booth W. 2021. Exceptional long-term sperm storage by a female vertebrate. *PLoS One*, 16: e0252049.
+
+Shibata H, Sakata S, Hirano Y, Nitasaka E, Sakabe A. 2017. Facultative parthenogenesis validated by DNA analyses in the green anaconda (*Eunectes murinus*). *PLoS One*, 12: e0189654.
+
+
+
+
 
 
 
